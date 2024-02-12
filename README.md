@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fady Shehata</h1>
 <h3 align="center">Trying to be Full stack engineer.</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+<h4>🌱 I’m currently learning MERN stack</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
